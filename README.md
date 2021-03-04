@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is [my resume](https://finspire13.github.io/resume_en.pdf).
 
 <!--
 **Finspire13/Finspire13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Daochang's github stats](https://github-readme-stats.vercel.app/api?username=Finspire13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
