@@ -1,7 +1,7 @@
-### Hi there 👋 This is [my resume](https://finspire13.github.io/resume_en.pdf).
+### Hi there 👋 This is [my homepage](https://lidq92.github.io).
 
 <!--
-**Finspire13/Finspire13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lidq92/lidq92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Daochang's github stats](https://github-readme-stats.vercel.app/api?username=Finspire13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true)
+![Dingquan's github stats](https://github-readme-stats.vercel.app/api?username=lidq92&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true)
