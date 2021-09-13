@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Dingquan's github stats](https://github-readme-stats.vercel.app/api?username=lidq92&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lidq92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
