@@ -1,5 +1,7 @@
 ### Hi there 👋 This is [my homepage](https://lidq92.github.io).
 
+I'm currently focusing on my project and may not respond to some issues which are not fatal. Thank you! (Written on 19/09/2021)
+
 <!--
 **lidq92/lidq92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
