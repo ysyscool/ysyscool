@@ -30,4 +30,5 @@ Fast access to some projects
 - [mpeg-pcc-tmc13](https://github.com/lidq92/mpeg-pcc-tmc13)
 - [Deep-Geometry-Post-Processing](https://github.com/lidq92/Deep-Geometry-Post-Processing)
 - [zwx8981/BIQA_CL](https://github.com/zwx8981/BIQA_CL)
+- [zwx8981/PerceptualAttack_BIQA](https://github.com/zwx8981/PerceptualAttack_BIQA)
 - [wangzhihua520/SemiNCL_IQA](https://github.com/wangzhihua520/SemiNCL_IQA)
